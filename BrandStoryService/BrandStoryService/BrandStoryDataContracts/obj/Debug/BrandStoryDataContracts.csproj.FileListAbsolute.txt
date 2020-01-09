@@ -1,0 +1,4 @@
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryDataContracts\bin\Debug\BrandStoryDataContracts.dll
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryDataContracts\bin\Debug\BrandStoryDataContracts.pdb
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryDataContracts\obj\Debug\BrandStoryDataContracts.dll
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryDataContracts\obj\Debug\BrandStoryDataContracts.pdb

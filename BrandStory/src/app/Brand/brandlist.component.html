@@ -1,0 +1,28 @@
+<div class="tableContainer">
+<table class="table">
+    <tr>
+        <th>Brand</th>
+        <th>Description</th>
+        <th>Location Coverage</th>
+        <th>Users</th>
+        <th>Options</th>
+    </tr>
+    <tr *ngFor='let brand of BrandValue'>
+            <td>{{brand.Name}}</td>
+            <td>{{brand.Description}}</td>
+            <td>{{brand.LocationCoverage}}</td>
+            <td>{{brand.CreatedBy}}</td>
+            <td><a routerLink="/brandedit/{{brand.Id}}">Edit</a> <a (click)="OnDeleteClk(brand.Id)">Delete</a></td>
+    </tr>
+</table>
+
+<!-- <ul>
+    <li *ngFor='let brand of BrandValue'>{{brand}}</li>
+</ul> -->
+
+<label>{{brnd}}</label><br/>
+    
+<a routerLink="/brandadd" class="addButton"><button>Add New Brand</button></a>
+</div>
+
+<button class="exportExcel">Export to excel</button>

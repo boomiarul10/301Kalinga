@@ -1,0 +1,21 @@
+.tableContainer{
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+.table{
+    border-color: black;
+    border-width: 2px;
+    background-color: beige;
+
+}
+
+.addButton{
+    margin-top:20px;
+}
+
+.exportExcel{
+    position: absolute;
+    margin-top: 500px;
+    margin-left: 50px;
+}

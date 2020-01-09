@@ -1,0 +1,32 @@
+.divDemographicFilters{
+  position: absolute;
+  margin-left: 1200px;
+  margin-top: 100px;
+  background-color: aqua;
+}
+
+.divKPI{
+    position: absolute;
+    margin-right: 100px;
+    margin-top: 100px;
+    background-color: aquamarine;
+  
+  }
+
+
+
+.divBrandIndex{
+    position: absolute;
+    margin-right: 100px;
+    margin-bottom: 100px;
+}
+
+.divTimeFilter{
+    position: absolute;
+    margin-left: 1200px;
+    margin-bottom: 100px;
+    background-color: blanchedalmond;
+  }
+
+
+

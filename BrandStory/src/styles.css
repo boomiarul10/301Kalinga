@@ -1,0 +1,27 @@
+/* You can add global styles to this file, and also import other style files */
+li {
+    font-size: large;
+}
+
+div.panel-heading {
+   font-size: x-large;
+}
+
+header div {
+    height: 100px;
+}
+
+body {
+    background-color: blue;
+}
+
+header h1{
+    margin-left: 20px;
+}
+
+.loginButton{
+    width: 80px;
+    margin:30px;
+    float:right;
+    background-color: beige;
+}

@@ -1,0 +1,103 @@
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\bin\roslyn\csc.exe
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\bin\roslyn\csc.exe.config
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\bin\roslyn\csc.rsp
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\bin\roslyn\csi.exe
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\bin\roslyn\csi.rsp
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\bin\roslyn\System.AppContext.dll
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\bin\roslyn\System.IO.FileSystem.dll
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\bin\roslyn\vbc.exe
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\bin\roslyn\vbc.exe.config
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\bin\roslyn\vbc.rsp
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\bin\roslyn\VBCSCompiler.exe
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\bin\BrandStoryWebApi.dll.config
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\bin\BrandStoryWebApi.dll
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\bin\BrandStoryWebApi.pdb
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\bin\BrandStoryDataContracts.dll
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\bin\BrandStoryImplementation.dll
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\bin\Newtonsoft.Json.dll
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\bin\System.Net.Http.Formatting.dll
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\bin\System.Web.Http.dll
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\bin\System.Web.Http.WebHost.dll
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\bin\BrandStoryDAL.dll
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\bin\AutoMapper.dll
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\bin\BrandStoryDataContracts.pdb
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\bin\BrandStoryImplementation.pdb
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\bin\Newtonsoft.Json.xml
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\bin\System.Net.Http.Formatting.xml
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\bin\System.Web.Http.xml
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\bin\System.Web.Http.WebHost.xml
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\bin\BrandStoryDAL.pdb
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\bin\AutoMapper.xml
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\obj\Debug\BrandStoryWebApi.csprojResolveAssemblyReference.cache
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\obj\Debug\BrandStoryWebApi.dll
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryWebApi\obj\Debug\BrandStoryWebApi.pdb
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\roslyn\csc.exe
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\roslyn\csc.exe.config
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\roslyn\csc.rsp
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\roslyn\csi.exe
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\roslyn\csi.rsp
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\roslyn\System.AppContext.dll
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\roslyn\System.IO.FileSystem.dll
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\roslyn\vbc.exe
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\roslyn\vbc.exe.config
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\roslyn\vbc.rsp
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\roslyn\VBCSCompiler.exe
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\BrandStoryWebApi.dll.config
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\BrandStoryWebApi.dll
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\BrandStoryWebApi.pdb
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\BrandStoryDataContracts.dll
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\BrandStoryImplementation.dll
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\Newtonsoft.Json.dll
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\System.Net.Http.Formatting.dll
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\System.Web.Http.dll
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\System.Web.Http.WebHost.dll
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\BrandStoryDAL.dll
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\AutoMapper.dll
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\BrandStoryDataContracts.pdb
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\BrandStoryImplementation.pdb
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\Newtonsoft.Json.xml
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\System.Net.Http.Formatting.xml
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\System.Web.Http.xml
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\System.Web.Http.WebHost.xml
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\BrandStoryDAL.pdb
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\AutoMapper.xml
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\obj\Debug\BrandStoryWebApi.dll
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\obj\Debug\BrandStoryWebApi.pdb
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\System.Web.Cors.dll
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\System.Web.Http.Cors.dll
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\bin\System.Web.Http.Cors.xml
+D:\301Kalinga\BrandStoryService\BrandStoryService\BrandStoryWebApi\obj\Debug\BrandStoryWebApi.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryDAL\bin\Debug\BrandStoryDAL.dll
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryDAL\bin\Debug\BrandStoryDAL.pdb
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryDAL\bin\Debug\AutoMapper.dll
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryDAL\bin\Debug\BrandStoryDataContracts.dll
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryDAL\bin\Debug\BrandStoryDataContracts.pdb
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryDAL\bin\Debug\AutoMapper.xml
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryDAL\obj\Debug\BrandStoryDAL.csprojResolveAssemblyReference.cache
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryDAL\obj\Debug\BrandStoryDAL.dll
+D:\MTK Assessment\BrandStoryAPI\BrandStoryService\BrandStoryDAL\obj\Debug\BrandStoryDAL.pdb

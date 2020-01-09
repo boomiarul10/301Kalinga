@@ -1,0 +1,22 @@
+ul{
+    display: inline-block;
+    text-decoration:none
+}
+
+Img {
+    width:180;
+    height:100px;
+    margin:10px;
+    padding:10px;
+}
+
+.brandConfig{
+    float:right;
+    padding:20px;
+    
+}
+
+.mainDiv {
+    text-align:center;
+    background-color: aqua;
+}

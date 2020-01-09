@@ -1,0 +1,163 @@
+Git Lab:
+comment
+git init 
+git clone 
+git pull
+git push
+git add.
+git status
+cd foldername
+clear
+
+
+
+Jenkins :
+> COnfigure
+> Dashboard display
+> Source code management 
+- git 
+> Repository URL 
+- Copy SSH URL and paste
+> Credentials 
+MI027284 (SSH Key)
+> Branch 
+*/Master
+
+APPLY, SAVE
+
+> Click Build 
+
+Autobuild - CI 
+
+Build Triggers
+- Advanced, Generate (Secret tocken)
+
+GITLAB
+
+Integrations
+
+> URL
+- "Jenkins URL" word project instead of job
+> Secret token
+Under Trigger
+Push Events checked
+You Can test the events
+Save
+
+
+> Email also can be cofigured, will be under post build actions
+
+
+> Build env
+- provide npm 
+"npm"
+
+> execute shell
+for library files needed for building the project
+
+
+----- 
+Angular cli
+ng new testangular
+
+
+angular.io/tutorial
+
+
+-----
+Proxy 
+
+In EMail
+
+-------
+Do not push node_Modules
+
+.Ignore
+Create the text file gitignore.txt.
+Open it in a text editor and add your rules, then save and close.
+Hold SHIFT, right click the folder you're in, then select Open command window here.
+Then rename the file in the command line, with ren gitignore.txt .gitignore.
+
+npm install will create node_modules 
+
+-- 
+
+.specs is for testing in Angular
+
+
+
+--- 
+package.json
+
+
+
+AZURE:
+portal.azure.com
+
+> App Services
+> Add 
+> Web app
+> Create 
+> AppName
+> create an new Resource Group
+> CREATE 
+
+
+"Yourappname".azurewebsites.net
+Should show app is up and running
+
+Next is code deploy
+
+Jenkins post build actions
+> send build artifacts over FTP
+
+{
+Manage jenkins
+Configure system
+Publish over FTP
+Add your FTP
+Name 
+HostName (from your azure - app, host name)
+Username and Password (FTPUser name from Azure)
+(Deployment credentials - Username, Password)
+TEST
+}
+
+Your FTP in the dropdwn 
+Transfers 
+dist/**   >> YourFolder/dist/**
+dist
+/sites/wwwroot/
+
+npm run build --prod -env
+
+yourappname.scm.azurewebsite.net
+
+> Application settings
+Default page
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+Type Script .ts
+
+OOPS concepts in javascript
+
+es5, es6, es7 
+
+GitRunner
+
+
+CI and CD
